@@ -84,8 +84,8 @@ CREATE DATABASE fakejobdetector;
 
 6. Open Swagger UI
 ```
-http://localhost:8080/swagger-ui/index.html
+http://65.1.92.223:8080/swagger-ui/swagger-ui/index.html#/
 ```
 
 ## API Documentation
-Swagger UI available at: `http://localhost:8080/swagger-ui/index.html`
+Swagger UI available at: `http://65.1.92.223:8080/swagger-ui/swagger-ui/index.html#/`
